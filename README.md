@@ -25,13 +25,22 @@ Before you begin, ensure you have Python installed on your system. This project 
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 3. **Install Required Packages**
    ```bash
-   pip install -r requirements.txt   
+      pip install -r requirements.txt   
+
+## Execution
+To run the solver, execute the `main.py` script:
+```bash
+   python main.py
+
+## Testing
+The notebook was tested on an MBP M1 Max (64 GB RAM) without GPU acceleration running macOS Sonoma v14.2.1 
+
+
 ## The UniFIDES notebook
 
 For a more unified experience, the UniFIDES' notebook is provided in Google Colab:
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/procf/UniFIDES/blob/main/UniFIDES.ipynb)
 
-The notebook was tested on an MBP M1 Max (64 GB RAM) without GPU acceleration running macOS Sonoma v14.2.1 
 
 
 ## Background
