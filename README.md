@@ -19,7 +19,16 @@ Before you begin, ensure you have Python installed on your system. This project 
    ```bash
    git clone https://github.com/procf/UniFIDES.git
    cd UniFIDES
-1. **Set Up a Virtual Environment** (Optional but recommended)
+2. **Set Up a Virtual Environment** (Optional but recommended)
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+3. **Install Required Packages**
+   ```bash
+   pip install -r requirements.txt
+
+
+   
    
 ## The UniFIDES notebook
 
