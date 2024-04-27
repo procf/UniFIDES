@@ -5,15 +5,8 @@ This project, titled "*UniFIDES: Universal Fractional Integro-Differential Equat
 ## What to Expect
 The repository contains Python scripts that solve two examples of Fredholm and Volterra equations in the form of a forward problem.
 
-## Installation
-### Prerequisites
-Before you begin, ensure you have Python installed on your system. This project is tested with:
-- Python v3.11.7
-- TensorFlow v2.15.0
-- Numpy v1.26.2
-- Pandas v2.1.3
 
-### Steps to Install
+## Steps to Install
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/procf/UniFIDES.git
