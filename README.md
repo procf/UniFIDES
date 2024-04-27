@@ -19,6 +19,8 @@ Before you begin, ensure you have Python installed on your system. This project 
    ```bash
    git clone https://github.com/procf/UniFIDES.git
    cd UniFIDES
+2. ** Set Up a Virtual Environment **
+   
 ## The UniFIDES notebook
 
 For a more unified experience, the UniFIDES' notebook is provided in Google Colab:
