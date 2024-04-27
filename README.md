@@ -28,9 +28,9 @@ Before you begin, ensure you have Python installed on your system. This project 
       pip install -r requirements.txt   
 
 ## Execution
+
 To run the solver, execute the `main.py` script:
-```bash
-   python main.py
+pip install -r requirements.txt  
 
 ## Testing
 The notebook was tested on an MBP M1 Max (64 GB RAM) without GPU acceleration running macOS Sonoma v14.2.1 
