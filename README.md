@@ -19,11 +19,12 @@ Before you begin, ensure you have Python installed on your system. This project 
    ```bash
    git clone https://github.com/procf/UniFIDES.git
    cd UniFIDES
+## The UniFIDES notebook
 
+For a more unified experience, the UniFIDES' notebook is provided in Google Colab:
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/procf/UniFIDES/blob/main/UniFIDES.ipynb)
 
-
-## Hardware/OS tested
-The program was tested on an MBP M1 Max (64 GB RAM) without GPU acceleration running macOS Sonoma v14.2.1 
+The notebook was tested on an MBP M1 Max (64 GB RAM) without GPU acceleration running macOS Sonoma v14.2.1 
 
 
 ## Background
