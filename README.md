@@ -6,7 +6,6 @@ This project, titled "*UniFIDES: Universal Fractional Integro-Differential Equat
 The repository contains Python scripts that solve two examples of Fredholm and Volterra equations in the form of a forward problem.
 
 ## Installation
-
 ### Prerequisites
 Before you begin, ensure you have Python installed on your system. This project is tested with:
 - Python v3.11.7
@@ -23,14 +22,18 @@ Before you begin, ensure you have Python installed on your system. This project 
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   ```
 3. **Install Required Packages**
    ```bash
-      pip install -r requirements.txt   
-
+      pip install -r requirements.txt
+   ``` 
 ## Execution
 
 To run the solver, execute the `main.py` script:
-pip install -r requirements.txt  
+```bash
+python main.py
+```
+
 
 ## Testing
 The notebook was tested on an MBP M1 Max (64 GB RAM) without GPU acceleration running macOS Sonoma v14.2.1 
