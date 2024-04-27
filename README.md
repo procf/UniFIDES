@@ -1,20 +1,26 @@
 # Universal Integer-Order and Fractional Integro-Differential Equation Solvers
 This project is currently submitted to [Nature Machine Intelligence](https://www.nature.com/natmachintell/). The work is titled "*UniFIDES: Universal Fractional Integro-Differential Equation Solvers.*"
+# Universal Integer-Order and Fractional Integro-Differential Equation Solvers
 
-This is a TensorFlow implementation of a robust, user-friendly platform to solve integer-order and fractional FIDEs in forward and inverse directions.
+This project, titled "*UniFIDES: Universal Fractional Integro-Differential Equation Solvers,*" is currently submitted to [Nature Machine Intelligence](https://www.nature.com/natmachintell/). This README provides a guide to installing and using the TensorFlow implementation of UniFIDES, a robust, user-friendly platform to solve integer-order and fractional FIDEs in both forward and inverse directions.
 
-## What to expect
-In the provided notebook, two examples of Fredholm and Volterra equations are solved in the form of a forward problem.
+## What to Expect
+The repository contains Python scripts that solve two examples of Fredholm and Volterra equations in the form of a forward problem.
 
-Open UniFIDES in Google Colab:
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/procf/UniFIDES/blob/main/UniFIDES.ipynb)
+## Installation
 
-## Software/package requirements
-In this project, the following packages are actively used:
-1. `python` v3.11.7, 
-2. `tensorflow` v2.15.0 (for the backbone),
-3. `numpy` v1.26.2 (you know), and
-4. `pandas` v2.1.3 (for pre-/post-processing).
+### Prerequisites
+Before you begin, ensure you have Python installed on your system. This project is tested with:
+- Python v3.11.7
+- TensorFlow v2.15.0
+- Numpy v1.26.2
+- Pandas v2.1.3
+
+### Steps to Install
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-username/UniFIDES.git
+   cd UniFIDES
 
 ## Hardware/OS tested
 The program was tested on an MBP M1 Max (64 GB RAM) without GPU acceleration running macOS Sonoma v14.2.1 
