@@ -1,6 +1,4 @@
 # Universal Integer-Order and Fractional Integro-Differential Equation Solvers
-This project is currently submitted to [Nature Machine Intelligence](https://www.nature.com/natmachintell/). The work is titled "*UniFIDES: Universal Fractional Integro-Differential Equation Solvers.*"
-# Universal Integer-Order and Fractional Integro-Differential Equation Solvers
 
 This project, titled "*UniFIDES: Universal Fractional Integro-Differential Equation Solvers,*" is currently submitted to [Nature Machine Intelligence](https://www.nature.com/natmachintell/). This README provides a guide to installing and using the TensorFlow implementation of UniFIDES, a robust, user-friendly platform to solve integer-order and fractional FIDEs in both forward and inverse directions.
 
@@ -21,6 +19,7 @@ Before you begin, ensure you have Python installed on your system. This project 
    ```bash
    git clone https://github.com/your-username/UniFIDES.git
    cd UniFIDES
+
 
 ## Hardware/OS tested
 The program was tested on an MBP M1 Max (64 GB RAM) without GPU acceleration running macOS Sonoma v14.2.1 
