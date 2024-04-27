@@ -25,11 +25,7 @@ Before you begin, ensure you have Python installed on your system. This project 
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 3. **Install Required Packages**
    ```bash
-   pip install -r requirements.txt
-
-
-   
-   
+   pip install -r requirements.txt   
 ## The UniFIDES notebook
 
 For a more unified experience, the UniFIDES' notebook is provided in Google Colab:
