@@ -32,5 +32,5 @@
 - **Milad Saadat**: [Google Scholar Profile](https://scholar.google.com/citations?user=PPLvVmEAAAAJ&hl=en&authuser=1)
 - **Deepak Mangal**: [Google Scholar Profile](https://scholar.google.com/citations?user=AoYKLW4AAAAJ&hl=en)
 - **Safa Jamali**: [Google Scholar Profile](https://scholar.google.com/citations?user=D1asaYIAAAAJ&hl=en)
-- **Acknowledgements**: Discussions with Dr. Deepak Mangal and support from the National Science Foundation’s DMREF program through Award \#2118962.
+- **Acknowledgements**: Support from the National Science Foundation’s DMREF program through Award \#2118962.
 
